@@ -1,0 +1,8 @@
+@startuml diagrama
+
+class Usuario
+class Mascota{
+    -Felicidad felicidad
+    +Pasear()
+}
+class Juego{
